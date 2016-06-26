@@ -1,2 +1,1 @@
-# hello-world
-Repository
+Trying GITHub as part of my python course.
